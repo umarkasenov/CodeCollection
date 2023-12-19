@@ -1,5 +1,4 @@
 .idea
 /__pycache__
 venv
-passwords.txt
-калькулятор.py
+calculator.py
