@@ -24,11 +24,11 @@ WINDOW_HEIGHT = 600
 
 # Создание окна
 screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-pygame.display.set_caption("Змейка")
+pygame.display.set_caption("Umar")
 
 # Определение констант
 BLOCK_SIZE = 20
-SNAKE_SPEED = 10
+SNAKE_SPEED = 15
 
 # Определение класса змейки
 class Snake:
